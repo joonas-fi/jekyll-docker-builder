@@ -1,3 +1,5 @@
+WARNING: archived repo, I no longer use this (as I migrated to Hugo), but it still worked perfectly in 2021 without any updates in six years :D
+
 What?
 =====
 
